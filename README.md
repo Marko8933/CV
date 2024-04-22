@@ -1,7 +1,5 @@
 # Informazioni Personali:
 - **Nome completo:** Presti Marco
-- **Indirizzo:** via Leonardo Sciascia n°5, 98051, Barcellona Pozzo di Gotto, Italia
-- **Numero di telefono:** 3491942348
 - **Indirizzo email:** marco.presti89@gmail.com
 - **Indirizzo pec:** marco.presti89@pec.it
 - **LinkedIn:** www.linkedin.com/in/marco-presti-14547575
