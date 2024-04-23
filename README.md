@@ -131,7 +131,7 @@ ID credenziale: [296-s1HvRv](https://www.fudeo.it/certificate/296-s1HvRv)
     - Scrittura: A1
 - **Interessi:**
   - Appassionato di tecnologia a 360 gradi, sempre curioso di scoprire le ultime innovazioni e tendenze nel mondo digitale.
-  - Insieme ad amici abbiamo fondato un'associazione a scopo benefico, dove organizziamo eventi di raccolta.
+  - Insieme ad amici abbiamo fondato un'associazione a scopo benefico, dove organizziamo eventi di raccolta fondi per la ricerca medica.
   - Appassionato di fitness, ho sperimentato diverse tipologie di allenamento nel corso degli anni per mantenere uno stile di vita attivo e sano.
   - Lettore accanito di fumetti e manga.
   - Partecipo occasionale a giochi di ruolo da tavolo, dove posso immergermi in avventure epiche e sviluppare le mie capacità di problem solving e collaborazione.
